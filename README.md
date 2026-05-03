@@ -8,7 +8,7 @@
   
 📍 **Thane, Maharashtra** | 🎓 **B.E. Mechanical Engineering** | 💼 **3+ Years ML Experience**
 
-[🔗 LinkedIn](https://www.linkedin.com/in/rumitpathare/) • [📄 CV](https://drive.google.com/file/d/1sqEH5R-c2B-yx6D_bWW4Z5sK16bmKY4v/view?usp=sharing) • [✉️ Email](mailto:rumit.pthr@gmail.com) • [🎵 Spotify](https://spotify-github-profile.vercel.app/api/view?uid=czf4yyaawjvajfxs0qpu2plk6&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=08e600&bar_color_cover=false)
+[🔗 LinkedIn](https://www.linkedin.com/in/rumitpathare/) • [📄 Resume](https://drive.google.com/file/d/1niX12_EUDlOMWKWiE61PD7Qve_hzRrRM/view?usp=drive_link) • [✉️ Email](mailto:rumit.pthr@gmail.com)
 
 </div>
 
@@ -142,7 +142,7 @@ I'm actively exploring **Senior ML Engineer** roles focusing on:
 - 🔬 **Computer Vision** — Image analysis, segmentation, and object detection
 - 📈 **Time Series & Forecasting** — Predictive analytics and anomaly detection
 
-**Location:** Thane, Maharashtra | **Target Salary:** 20+ LPA
+
 
 ---
 
@@ -153,7 +153,7 @@ I'm actively exploring **Senior ML Engineer** roles focusing on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumitpathare/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rumit95)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rumit.pthr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/CV-Download-informational?style=for-the-badge)](https://drive.google.com/file/d/1sqEH5R-c2B-yx6D_bWW4Z5sK16bmKY4v/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Resume-Download-informational?style=for-the-badge)](https://drive.google.com/file/d/1niX12_EUDlOMWKWiE61PD7Qve_hzRrRM/view?usp=drive_link)
 
 **Always happy to discuss ML, collaborate on open-source, or explore exciting opportunities!**
 
