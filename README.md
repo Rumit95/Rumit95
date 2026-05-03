@@ -18,7 +18,7 @@
 
 Machine Learning Engineer at **WonderBiz Technologies** (Schneider Electric) with expertise in **Computer Vision**, **NLP**, **Reinforcement Learning**, and **AutoML**. Passionate about building production-grade ML systems and open-source contributions. Co-inventor of an international AI patent for water management systems.
 
-**Active interests:** Senior ML Engineer roles, Bioacoustic AI, Time Series forecasting, and AI/ML YouTube content creation.
+**Active interests:** Senior ML Engineer roles, Computer Vision Engineer, Time Series forecasting, and AI/ML YouTube content creation.
 
 ---
 
@@ -30,7 +30,7 @@ Machine Learning Engineer at **WonderBiz Technologies** (Schneider Electric) wit
 |---------|-------------|-----------|--------|
 | **[Sudoku Intelligence Engine](https://github.com/Rumit95/Sudoku-Intelligence-Engine)** | Brain-inspired Sudoku solver using Maskable PPO. **100% solve rate** on 1M+ puzzles with 1458-dimensional action space and custom Gymnasium environment. | `Stable-Baselines3` `Gymnasium` `PyTorch` `NumPy` | ⭐ Star |
 | **[NES Mario AI Trainer](https://github.com/Rumit95/mario-nes-ai-trainer)** | Vision-based RL agent that learns to play NES Mario. Combines CNN-based feature extraction with policy learning. | `TensorFlow` `OpenCV` `Gym` | ⭐ Star |
-| **[Pong RL Agent](https://github.com/Rumit95/pong-game)** | Deep Q-Network agent learning to play Pong from raw pixel input. Demonstrates end-to-end RL pipeline. | `TensorFlow` `OpenAI Gym` | ⭐ Star |
+| **[Pong RL Agent](https://github.com/Rumit95/pong-game)** | Deep Q-Network agent learning to play Pong from raw pixel input. Demonstrates an end-to-end RL pipeline. | `TensorFlow` `OpenAI Gym` | ⭐ Star |
 
 ### 🖼️ **Computer Vision & Segmentation**
 
@@ -40,14 +40,14 @@ Machine Learning Engineer at **WonderBiz Technologies** (Schneider Electric) wit
 | **[Auto Segmentation](https://github.com/Rumit95/Auto_Segmentation)** | Real-time semantic segmentation web app using MobileNetV2 + U-Net. Includes both CLI and Streamlit deployment. | `PyTorch` `Streamlit` `PIL` | ⭐ Star |
 | **[Cancer Cell Segmentation (U-Net)](https://github.com/Rumit95/Cancer-Cell-Segmentation-U-Net)** | Custom U-Net for medical image analysis. Demonstrates biomedical image segmentation best practices. | `PyTorch` `Jupyter` | 🔬 Research |
 | **[Vehicle Detection (YOLOv5)](https://github.com/Rumit95/Vehicle-Detection)** | Real-time object detection using YOLOv5 pretrained models with live screen capture. | `YOLOv5` `OpenCV` | ⭐ Star |
-| **[Animal Classification (CNN from Scratch)](https://github.com/Rumit95/Animals-Recognization)** | Custom CNN trained on Microsoft dataset. Achieves **>80% accuracy** with optimized training. | `TensorFlow` `OpenCV` | 🎓 Learning |
+| **[Animal Classification (CNN from Scratch)](https://github.com/Rumit95/Animals-Recognization)** | Custom CNN trained on Microsoft dataset. Achieves **>80% accuracy** with optimised training. | `TensorFlow` `OpenCV` | 🎓 Learning |
 | **[Optical Character Recognition (OCR)](https://github.com/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks)** | Neural network-based OCR system with character recognition pipeline. | `TensorFlow` `OpenCV` | ⭐ Star |
 
 ### 📊 **Time Series & Forecasting**
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **[Orima — Time Series Analyzer](https://github.com/Rumit95/TS-model-advisor)** | Interactive desktop app for time-series analysis. Auto-detects trends/seasonality, visualizes ACF/PACF, recommends AR/MA/ARIMA/SARIMA models with plain-English explanations. | `Python` `Tkinter` `Matplotlib` `Statsmodels` | 🚀 Production |
+| **[Orima — Time Series Analyzer](https://github.com/Rumit95/TS-model-advisor)** | Interactive desktop app for time-series analysis. Auto-detects trends/seasonality, visualises ACF/PACF, recommends AR/MA/ARIMA/SARIMA models with plain-English explanations. | `Python` `Tkinter` `Matplotlib` `Statsmodels` | 🚀 Production |
 | **[ARIMA/SARIMA Models](https://github.com/Rumit95/Test_VAR)** | Empirical exploration of time-series forecasting techniques with VAR models. | `Pandas` `Statsmodels` `Jupyter` | 🔬 Research |
 
 ### 🛠️ **Data Science & ML Pipelines**
@@ -56,7 +56,7 @@ Machine Learning Engineer at **WonderBiz Technologies** (Schneider Electric) wit
 |---------|-------------|-----------|--------|
 | **[Car Price Prediction](https://github.com/Rumit95/Car-Price-Prediction)** | End-to-end Linear Regression pipeline with Flask web app. Full EDA → Feature Engineering → Model Training → Deployment. | `Flask` `Scikit-learn` `Pandas` `MySQL` | ⭐ Star |
 | **[P2P Loans Risk Analysis](https://github.com/Rumit95/P2P-Loans)** | Credit risk modeling and loan classification using supervised learning. | `Pandas` `Scikit-learn` `Scipy` | 📊 Analytics |
-| **[Book Recommendation System](https://github.com/Rumit95/Recommend-system-for-Books)** | Collaborative filtering-based recommendation engine. Demonstrates matrix factorization concepts. | `NumPy` `Scipy` `Pandas` | ⭐ Star |
+| **[Book Recommendation System](https://github.com/Rumit95/Recommend-system-for-Books)** | Collaborative filtering-based recommendation engine. Demonstrates matrix factorisation concepts. | `NumPy` `Scipy` `Pandas` | ⭐ Star |
 
 ### 🎨 **Tools & Utilities**
 
@@ -71,7 +71,7 @@ Machine Learning Engineer at **WonderBiz Technologies** (Schneider Electric) wit
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **[Air Pollution Analysis: COVID-19 Impact](https://public.tableau.com/app/profile/rumit6351/viz/WeatherAnalysisIndia/PollutionAnalysis)** | Interactive Tableau visualization analyzing pollution trends in India before/after COVID lockdown. | `Tableau` `Data Analytics` | 📊 Public |
+| **[Air Pollution Analysis: COVID-19 Impact](https://public.tableau.com/app/profile/rumit6351/viz/WeatherAnalysisIndia/PollutionAnalysis)** | Interactive Tableau visualisation analysing pollution trends in India before/after COVID lockdown. | `Tableau` `Data Analytics` | 📊 Public |
 | **[GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&theme=city_lights)** | Automated GitHub activity visualization and contribution analytics. | `GitHub API` `Vercel` | 📊 Public |
 
 ---
