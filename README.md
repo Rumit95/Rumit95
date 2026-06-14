@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Rumit95">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&duration=3000&pause=500&multiline=true&width=600&height=100&lines=Rumit+Pathare;ML+Engineer+%7C+CV+%7C+NLP+%7C+RL;Building+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&duration=3000&pause=500&multiline=true&width=600&height=100&lines=Rumit+Pathare;Senior+ML+Engineer+%7C+CV+%7C+NLP+%7C+RL;Building+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
   
 📍 **Thane, Maharashtra** | 🎓 **B.E. Mechanical Engineering** | 💼 **3+ Years ML Experience**
 
-[🔗 LinkedIn](https://www.linkedin.com/in/rumitpathare/) • [📄 Resume](https://drive.google.com/file/d/1niX12_EUDlOMWKWiE61PD7Qve_hzRrRM/view?usp=drive_link) • [✉️ Email](mailto:rumit.pthr@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/rumitpathare/) • [📄 Resume](https://drive.google.com/file/d/1CirQ2HocjUaP_IM2lBCHNw3QU3QEcaUi/view?usp=drive_link) • [✉️ Email](mailto:rumit.pathare.27@gmail.com)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Machine Learning Engineer at **WonderBiz Technologies** (Schneider Electric) with expertise in **Computer Vision**, **NLP**, **Reinforcement Learning**, and **AutoML**. Passionate about building production-grade ML systems and open-source contributions. Co-inventor of an international AI patent for water management systems.
+Senior Machine Learning Engineer at **WonderBiz Technologies** (Schneider Electric) with expertise in **Computer Vision**, **NLP**, **Reinforcement Learning**, and **AutoML**. Passionate about building production-grade ML systems and open-source contributions. Co-inventor of an international AI patent for water management systems.
 
 **Active interests:** Senior ML Engineer roles, Computer Vision Engineer, Time Series forecasting, and AI/ML YouTube content creation.
 
