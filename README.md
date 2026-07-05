@@ -8,7 +8,7 @@
   
 📍 **Thane, Maharashtra** | 🎓 **B.E. Mechanical Engineering** | 💼 **3+ Years ML Experience**
 
-[🔗 LinkedIn](https://www.linkedin.com/in/rumitpathare/) • [📄 Resume](https://drive.google.com/file/d/1CirQ2HocjUaP_IM2lBCHNw3QU3QEcaUi/view?usp=drive_link) • [✉️ Email](mailto:rumit.pathare.27@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/rumitpathare/) • [📄 Resume](https://drive.google.com/file/d/1-gxGilAuVUgumizj0zRk-VfCxWBv4IkT/view?usp=sharing) • [✉️ Email](mailto:rumit.pathare.27@gmail.com)
 
 </div>
 
